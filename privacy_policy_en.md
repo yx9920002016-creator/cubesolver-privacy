@@ -2,8 +2,6 @@
 
 Last updated: June 28, 2026
 
-Language: [English](#cubesolver-privacy-policy) | [简体中文](#cubesolver-隐私政策)
-
 CubeSolver is a local 3x3 Rubik's Cube scanning, solving, and teaching tool. We minimize data collection. Core recognition, calibration, solving, and animation playback are performed on the user's device.
 
 ## Information We Collect and Use
@@ -43,49 +41,3 @@ CubeSolver does not knowingly collect personal information from children. The co
 ## Contact
 
 For privacy questions, contact: yx9920002016@gmail.com
-
----
-
-# CubeSolver 隐私政策
-
-更新日期：2026-06-28
-
-CubeSolver 是一款本地三阶魔方识别与求解工具。我们尽量减少数据收集，核心识别、校准、求解和动画播放均在用户设备本机完成。
-
-## 收集和使用的信息
-
-### 相机
-
-应用需要相机权限，用于实时识别用户手中的魔方色块。相机画面仅用于本机识别，不上传照片、视频或相机画面。
-
-### 本地魔方档案
-
-应用会在本机保存用户确认过的颜色识别档案，用于提升同一魔方在后续使用中的识别稳定性。用户可以在设置页导出或导入魔方档案。
-
-### 上次扫描记录
-
-应用会在本机保存最近一次可求解的 6 面扫描结果，方便用户重启应用后恢复进度。该记录不上传。
-
-### 语音和音效设置
-
-应用会保存音效开关等本地设置。语音播报使用手机系统的文字转语音能力。
-
-## 不收集的信息
-
-当前版本不收集账号、通讯录、定位、照片库、广告标识符、支付信息或使用分析数据。
-
-## 数据共享
-
-当前版本不会向第三方服务器上传或共享用户数据。用户主动导出的魔方档案文件由用户自行保存和分享。
-
-## 数据删除
-
-用户可以通过卸载应用、清除应用数据，或清除导出的备份文件来删除本机数据。
-
-## 儿童隐私
-
-CubeSolver 不面向儿童收集个人信息。应用核心功能不需要账号登录。
-
-## 联系方式
-
-如有隐私相关问题，请联系：yx9920002016@gmail.com
